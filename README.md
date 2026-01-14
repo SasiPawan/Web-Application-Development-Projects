@@ -32,8 +32,9 @@ week 04 (Lab 03)/
 ├── data.csv            # Data file for student info
 ├── templates/
 │   ├── index.html          # Form to collect student data
-│   ├── student_details.html  # Page to display student details
-│   └── wrong.html          # Error page for invalid inputs
+│   ├── student_data.html   # Page to display student details
+│   ├── course_data.html    # Page to display course details
+│   └── error.html          # Error page for invalid inputs
 └── static/                 # Optional folder for CSS or JS files
 ```
 ---
