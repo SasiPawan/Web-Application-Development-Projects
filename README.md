@@ -29,7 +29,7 @@ The application accepts user input through a web form, processes the request on 
 ```
 week 04 (Lab 03)/
 ├── app.py                  # Main Flask application
-├── students.csv            # Data file for student info
+├── data.csv            # Data file for student info
 ├── templates/
 │   ├── index.html          # Form to collect student data
 │   ├── student_details.html  # Page to display student details
