@@ -27,7 +27,7 @@ The application accepts user input through a web form, processes the request on 
 ## Folder Structure
 
 ```
-week 04 (Lab 03)/
+Student Performance Analytics
 ├── app.py                  # Main Flask application
 ├── data.csv            # Data file for student info
 ├── templates/
